@@ -7,7 +7,26 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+td{
+  padding: 20px;
+  border: 1px solid red;
+  background-color: grey;
+  text-align: center;
+  color: hsl(0deg, 100%, 100%);
 
+}
+tr{
+  padding: 20px;
+  border: 1px solid red;
+  background-color: grey;
+  text-align: center;
+  color: hsl(0deg, 100%, 100%);
+}
+
+div input{
+  margin : 20px;
+
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
