@@ -1,13 +1,13 @@
 {
-  "main.css": "/LohithaYalavarthi/SayIntProject/static/css/main.de57c16f.chunk.css",
-  "main.js": "/LohithaYalavarthi/SayIntProject/static/js/main.49d7d179.chunk.js",
-  "main.js.map": "/LohithaYalavarthi/SayIntProject/static/js/main.49d7d179.chunk.js.map",
-  "static/js/1.b2ba0f30.chunk.js": "/LohithaYalavarthi/SayIntProject/static/js/1.b2ba0f30.chunk.js",
-  "static/js/1.b2ba0f30.chunk.js.map": "/LohithaYalavarthi/SayIntProject/static/js/1.b2ba0f30.chunk.js.map",
-  "runtime~main.js": "/LohithaYalavarthi/SayIntProject/static/js/runtime~main.4da29f2a.js",
-  "runtime~main.js.map": "/LohithaYalavarthi/SayIntProject/static/js/runtime~main.4da29f2a.js.map",
-  "static/css/main.de57c16f.chunk.css.map": "/LohithaYalavarthi/SayIntProject/static/css/main.de57c16f.chunk.css.map",
-  "index.html": "/LohithaYalavarthi/SayIntProject/index.html",
-  "precache-manifest.9c494d9b2c16820bf944c0d95d3257bb.js": "/LohithaYalavarthi/SayIntProject/precache-manifest.9c494d9b2c16820bf944c0d95d3257bb.js",
-  "service-worker.js": "/LohithaYalavarthi/SayIntProject/service-worker.js"
+  "main.css": "/LohithaYalavarthi/my-app/static/css/main.a57dc744.chunk.css",
+  "main.js": "/LohithaYalavarthi/my-app/static/js/main.04ab3257.chunk.js",
+  "main.js.map": "/LohithaYalavarthi/my-app/static/js/main.04ab3257.chunk.js.map",
+  "static/js/1.1f555900.chunk.js": "/LohithaYalavarthi/my-app/static/js/1.1f555900.chunk.js",
+  "static/js/1.1f555900.chunk.js.map": "/LohithaYalavarthi/my-app/static/js/1.1f555900.chunk.js.map",
+  "runtime~main.js": "/LohithaYalavarthi/my-app/static/js/runtime~main.1ffd7e00.js",
+  "runtime~main.js.map": "/LohithaYalavarthi/my-app/static/js/runtime~main.1ffd7e00.js.map",
+  "static/css/main.a57dc744.chunk.css.map": "/LohithaYalavarthi/my-app/static/css/main.a57dc744.chunk.css.map",
+  "index.html": "/LohithaYalavarthi/my-app/index.html",
+  "precache-manifest.ffd78d7be83f6df69e9d91ffad1297f1.js": "/LohithaYalavarthi/my-app/precache-manifest.ffd78d7be83f6df69e9d91ffad1297f1.js",
+  "service-worker.js": "/LohithaYalavarthi/my-app/service-worker.js"
 }

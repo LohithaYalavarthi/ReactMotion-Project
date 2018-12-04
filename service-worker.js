@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/LohithaYalavarthi/SayIntProject/precache-manifest.9c494d9b2c16820bf944c0d95d3257bb.js"
+  "/LohithaYalavarthi/my-app/precache-manifest.ffd78d7be83f6df69e9d91ffad1297f1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/LohithaYalavarthi/SayIntProject/index.html", {
+workbox.routing.registerNavigationRoute("/LohithaYalavarthi/my-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
