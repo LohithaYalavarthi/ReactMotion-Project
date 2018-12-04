@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/LohithaYalavarthi/my-app/precache-manifest.ffd78d7be83f6df69e9d91ffad1297f1.js"
+  "/my-app/precache-manifest.c36cebb204635f61b5c6af80f0866ae4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/LohithaYalavarthi/my-app/index.html", {
+workbox.routing.registerNavigationRoute("/my-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
